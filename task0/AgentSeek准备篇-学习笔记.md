@@ -231,7 +231,7 @@ agentseek dev
 
 ## 十、课程 Notebook 环境（offline 脚本模式）
 
-**这条线跟 AgentSeek 项目是两套环境。** AgentSeek 管的是 WSL 里的前后端项目；Notebook 是本机 Jupyter 里的章节实验环境。实验全过程见 [最小工具实验-学习笔记.md](最小工具实验-学习笔记.md)。
+**这条线跟 AgentSeek 项目是两套环境。** AgentSeek 管的是 WSL 里的前后端项目；Notebook 是本机 Jupyter 里的章节实验环境。
 
 先自检运行环境：
 
